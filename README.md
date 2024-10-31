@@ -16,13 +16,11 @@
 
 ### Connect with me:
 
-<a href = "mailto: arik30000@gmail.com">
-<img align="left" alt="Arik Skigin | Email" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" /></a>
-<a href="https://www.facebook.com/arik.skigin/">
-<img align="left" alt="Arik Skigin | Facebook" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
-</a>
-<a href="https://www.linkedin.com/in/arik-skigin/">
-<img align="left" alt="Arik Skigin | LinkedIn" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+<a href = "mailto: dvarsul@gmail.com">
+<img align="left" alt="Dor Varsulker | Email" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" /></a>
+
+<a href="[https://www.linkedin.com/in/arik-skigin/](https://www.linkedin.com/in/dor-varsulker-91153b1b0/)">
+<img align="left" alt="Dor Varsulker | LinkedIn" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 
 
