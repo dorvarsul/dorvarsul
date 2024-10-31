@@ -1,4 +1,4 @@
-### Hi there, I'm Ari Skigin  👋👋👋
+### Hi there, I'm Dor Varsulker  👋👋👋
 
 
 
@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning everything 🤣
 
-- 🥅 2020 Goals: Contribute more to Open Source projects
+- 🥅 2024 Goals: Contribute more to Open Source projects
 
 - ⚡ Finish my degree
 
