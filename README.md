@@ -35,7 +35,7 @@
 <img align="left" alt="Java" width="30px" src="https://raw.githubusercontent.com/github/explore/master/topics/java/java.png" /> 
 <img align="left" alt="Linux" width="30px" src="https://raw.githubusercontent.com/github/explore/master/topics/linux/linux.png" /> 
 <img align="left" alt="Bash" width="30px" src="https://raw.githubusercontent.com/github/explore/master/topics/bash/bash.png" />   
-<img align="left" alt="Eclipse" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/e/e6/Eclipse-icon.svg" />   
+
 
 <img align="left" alt="Python" width="30px" src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png" />   
 
