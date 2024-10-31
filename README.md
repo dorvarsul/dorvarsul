@@ -37,5 +37,4 @@
 <img align="left" alt="Bash" width="30px" src="https://raw.githubusercontent.com/github/explore/06c46459e7947f7f7ef7b4e2d8a6a3bcd7b2e2d2/topics/bash/bash.png" /> 
 
 <img align="left" alt="Eclipse" width="30px" src="https://raw.githubusercontent.com/github/explore/06c46459e7947f7f7ef7b4e2d8a6a3bcd7b2e2d2/topics/eclipse/eclipse.png" /> 
-<img align="left" alt="Eclipse" width="30px" 
-src="https://raw.githubusercontent.com/github/explore/e94815998e4e0713912fed477a1f346ec04c3da2/topics/python/python.png" />
+<img align="left" alt="Eclipse" width="30px" src="https://raw.githubusercontent.com/github/explore/e94815998e4e0713912fed477a1f346ec04c3da2/topics/python/python.png" />
