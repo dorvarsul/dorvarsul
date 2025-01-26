@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning everything 🤣
 
-- 🥅 2024 Goals: Contribute more to Open Source projects
+- 🥅 2025 Goals: Finish 2 major projects
 
 - ⚡ Finish my degree
 
