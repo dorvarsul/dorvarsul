@@ -2,7 +2,7 @@
 
 
 
-## I'm a Software engineering student and a programming enthusiast!!
+## I'm a Software engineering student and a robotics, aerospace and physics enthusiast
 
 - 🌱 I’m currently learning everything 🤣
 
