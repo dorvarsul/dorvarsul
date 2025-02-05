@@ -4,7 +4,7 @@
 
 ## I'm a Software engineering student and a robotics, aerospace and physics enthusiast
 
-- 🌱 I’m currently learning everything 🤣
+- 🌱 I’m currently working towards my B.Sc degree, learning physics and robotics and experimenting with several development projects.
 
 - 🥅 2025 Goals: Finish 2 major projects
 
