@@ -4,13 +4,11 @@
 
 ## I'm a Software engineering student and a robotics, aerospace and physics enthusiast
 
-- 🌱 I’m currently working towards my B.Sc degree, learning physics and robotics and experimenting with several development projects.
+- 🌱 I’m currently working towards my B.Sc degree, learning OSINT , GEOINT, Robotics and experimenting with several intelligence gathering development projects.
 
 - 🥅 2025 Goals: Finish 2 major projects
 
 - ⚡ Finish my degree
-
-- 🔭 A student position
 
 
 
