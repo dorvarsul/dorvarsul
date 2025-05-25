@@ -1,10 +1,4 @@
-### Hi there, I'm Dor Varsulker  👋👋👋
-
-
-
-## I'm a Software engineering student and a robotics, aerospace and physics enthusiast
-
-- 🌱 I’m currently working towards my B.Sc degree, learning OSINT , GEOINT, Robotics and experimenting with several intelligence gathering development projects.
+### Hi there, I'm Dor Varsulker 
 
 - 🥅 2025 Goals: Finish 2 major projects
 
