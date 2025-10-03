@@ -27,7 +27,7 @@
 <img align="left" alt="Java" width="30px" src="https://raw.githubusercontent.com/github/explore/master/topics/java/java.png" /> 
 <img align="left" alt="Linux" width="30px" src="https://raw.githubusercontent.com/github/explore/master/topics/linux/linux.png" /> 
 <img align="left" alt="Bash" width="30px" src="https://raw.githubusercontent.com/github/explore/master/topics/bash/bash.png" />   
-<img align="left" alt="NeoVim" width="30px" src="https://p7.hiclipart.com/preview/857/344/1/neovim-source-code-extensibility-computer-software-github.jpg" />
+<img align="left" alt="NeoVim" width="30px" src="http://user-images.githubusercontent.com/28633984/66519056-2e840c80-eaef-11e9-8670-c767213c26ba.png" />
 
 
 
