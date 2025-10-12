@@ -1,11 +1,5 @@
 ### Hi there, I'm Dor Varsulker 
 
-- 🥅 2025 Goals: Finish 2 major projects
-
-- ⚡ Finish my degree
-
-
-
 ### Connect with me:
 
 <a href = "mailto: dvarsul@gmail.com">
